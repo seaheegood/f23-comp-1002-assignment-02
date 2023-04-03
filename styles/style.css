@@ -7,13 +7,6 @@ body {
   outline: 1px dashed #ddd;
 }
 
-header,
-main,
-aside,
-footer {
-  outline: 1px dashed #ccc;
-}
-
 /* Defaults */
 h1 {
   font-size: 3.4em;
